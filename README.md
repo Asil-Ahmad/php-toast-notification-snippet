@@ -62,14 +62,15 @@ $success = "Your action was successful!";
 <?php endif; ?>
 ```
 
-#Customization
-##Timeouts:
+# Customization
+
+## Timeouts:
 
 The success toast disappears after 3000 milliseconds (3 seconds).
 The error toast disappears after 8000 milliseconds (8 seconds).
 You can adjust these durations by modifying the delay values in the setTimeout functions.
 
-##Styling:
+## Styling:
 
 The snippet uses Tailwind CSS classes (e.g., bg-green-50, text-green-600). If you're not using Tailwind, replace these with your custom CSS classes.
 Positioning:
@@ -78,5 +79,11 @@ The notifications are positioned at the top-right of the viewport (fixed top-4 r
 Contributing
 Contributions, bug reports, and feature suggestions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or ideas.
 
-License
+## License
 This project is licensed under the MIT License.
+
+
+---
+
+Feel free to update the contents of this README file to match your project's specifics. This format should make your GitHub repository easy to understand and use for others. Enjoy coding!
+
